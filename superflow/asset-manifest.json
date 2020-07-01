@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/superflow/static/css/main.410c97d0.chunk.css",
+    "main.js": "/superflow/static/js/main.549d80c9.chunk.js",
+    "main.js.map": "/superflow/static/js/main.549d80c9.chunk.js.map",
+    "runtime-main.js": "/superflow/static/js/runtime-main.492092d4.js",
+    "runtime-main.js.map": "/superflow/static/js/runtime-main.492092d4.js.map",
+    "static/js/2.5a8a1026.chunk.js": "/superflow/static/js/2.5a8a1026.chunk.js",
+    "static/js/2.5a8a1026.chunk.js.map": "/superflow/static/js/2.5a8a1026.chunk.js.map",
+    "index.html": "/superflow/index.html",
+    "precache-manifest.e3a45eae5ecc8c7a26f6a6f1163e6cff.js": "/superflow/precache-manifest.e3a45eae5ecc8c7a26f6a6f1163e6cff.js",
+    "service-worker.js": "/superflow/service-worker.js",
+    "static/css/main.410c97d0.chunk.css.map": "/superflow/static/css/main.410c97d0.chunk.css.map",
+    "static/js/2.5a8a1026.chunk.js.LICENSE.txt": "/superflow/static/js/2.5a8a1026.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.492092d4.js",
+    "static/js/2.5a8a1026.chunk.js",
+    "static/css/main.410c97d0.chunk.css",
+    "static/js/main.549d80c9.chunk.js"
+  ]
+}
