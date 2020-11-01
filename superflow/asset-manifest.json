@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/superflow/static/css/main.8c32f644.chunk.css",
-    "main.js": "/superflow/static/js/main.d6f822f8.chunk.js",
-    "main.js.map": "/superflow/static/js/main.d6f822f8.chunk.js.map",
+    "main.css": "/superflow/static/css/main.9f75ad98.chunk.css",
+    "main.js": "/superflow/static/js/main.ffdda81a.chunk.js",
+    "main.js.map": "/superflow/static/js/main.ffdda81a.chunk.js.map",
     "runtime-main.js": "/superflow/static/js/runtime-main.dba3deb0.js",
     "runtime-main.js.map": "/superflow/static/js/runtime-main.dba3deb0.js.map",
     "static/js/2.9b1e9cb6.chunk.js": "/superflow/static/js/2.9b1e9cb6.chunk.js",
     "static/js/2.9b1e9cb6.chunk.js.map": "/superflow/static/js/2.9b1e9cb6.chunk.js.map",
     "index.html": "/superflow/index.html",
-    "precache-manifest.30754f39ad08f7fc8410a8e131233625.js": "/superflow/precache-manifest.30754f39ad08f7fc8410a8e131233625.js",
+    "precache-manifest.407d6836705a16ca43cd6cc1ad6a7409.js": "/superflow/precache-manifest.407d6836705a16ca43cd6cc1ad6a7409.js",
     "service-worker.js": "/superflow/service-worker.js",
-    "static/css/main.8c32f644.chunk.css.map": "/superflow/static/css/main.8c32f644.chunk.css.map",
+    "static/css/main.9f75ad98.chunk.css.map": "/superflow/static/css/main.9f75ad98.chunk.css.map",
     "static/js/2.9b1e9cb6.chunk.js.LICENSE.txt": "/superflow/static/js/2.9b1e9cb6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dba3deb0.js",
     "static/js/2.9b1e9cb6.chunk.js",
-    "static/css/main.8c32f644.chunk.css",
-    "static/js/main.d6f822f8.chunk.js"
+    "static/css/main.9f75ad98.chunk.css",
+    "static/js/main.ffdda81a.chunk.js"
   ]
 }
