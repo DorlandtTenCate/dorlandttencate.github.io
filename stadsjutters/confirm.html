@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stadsjutters Breda</title>
+    <style type="text/css">
+      body {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        width: 600px;
+        margin: 200px auto;
+        text-align: center;
+      }
+    </style>
+    <script type="text/javascript">
+      fetch(
+        `https://hook.integromat.com/9xdranty54jzti8gr2plica532kws8l3?r=${
+          window.location.search.match(/recordId=(\w+)/)[1]
+        }`
+      ).then(() => {
+        document.getElementById('confirming').style.display = 'none';
+        document.getElementById('done').style.display = '';
+      });
+    </script>
+  </head>
+  <body>
+    <h1>Bedankt voor je aanmelding</h1>
+    <p id="confirming">
+      Een ongeblik geduld, je emailadres wordt bevestigd. Als dit te lang duurt, laad deze pagina dan opnieuw.
+    </p>
+    <p id="done" style="display: none">Je e-mailadres is bevestigd. Hartelijk dank voor je aanmelding.</p>
+    <p><a href="https://www.stadsjuttersbreda.nl">Stadsjutters Breda</a></p>
+  </body>
+</html>
