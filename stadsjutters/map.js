@@ -16,10 +16,11 @@ async function loadMapData() {
   json.records.forEach((record) => {
     L.circle([record.fields.Latitude, record.fields.Longitude], {
       color: '#084',
-      fillColor: '#0fa',
-      fillOpacity: 0.5,
+      fillColor: '#0f8',
+      fillOpacity: 0.3,
       radius: Number(record.fields.radius.match(/\((\d+)m\)/)[1]),
-      weight: 1,
+      stroke: true,
+      weight: 2,
     }).addTo(map);
   });
 }
